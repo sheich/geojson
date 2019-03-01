@@ -110,6 +110,68 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "OnBorder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72648739814758,
+          47.22406759781865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "Name": "Tracker"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.7264873437,
+              47.2249658451
+            ],
+            [
+              39.7276328742,
+              47.2245166834
+            ],
+            [
+              39.7276328548,
+              47.2236183713
+            ],
+            [
+              39.7264873437,
+              47.223169221
+            ],
+            [
+              39.7253418325,
+              47.2236183713
+            ],
+            [
+              39.7253418131,
+              47.2245166834
+            ],
+            [
+              39.7264873437,
+              47.2249658451
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
