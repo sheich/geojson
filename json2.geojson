@@ -2849,6 +2849,51 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#F552a5",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#408080",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.8179678008,
+            47.1576421751
+          ],
+          [
+            39.8200688024,
+            47.1580096529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8179678008,
+          47.1576421751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8200688024,
+          47.1580096529
+        ]
+      }
     }
   ]
 }
